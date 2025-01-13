@@ -1,3 +1,4 @@
 # Java_Assignment
-Name: Masoud Saeed Gariba\n
+Name: Masoud Saeed Gariba
+
 Index: 1723247454
